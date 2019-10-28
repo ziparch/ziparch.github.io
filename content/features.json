@@ -1,0 +1,36 @@
+{
+  "title": "Home remodeling and construction simplified",
+  "text": "A unified platform to drive you from your vision to done",
+  "features": [
+    {
+      "laIcon": "mobile-phone",
+      "title": "Seamless Collaboration",
+      "text": "Collaborate with various pros, Share photos, ideas, designs, documents right through the app"
+    },
+    {
+      "laIcon": "magic",
+      "title": "Vetted Professionals",
+      "text": "Service providers are personally vetted by our team"
+    },
+    {
+      "laIcon": "cogs",
+      "title": "Simplified Transactions",
+      "text": "Service providers are paid when work is delivered and approved by you"
+    },
+    {
+      "laIcon": "skyatlas",
+      "title": "Work platform for professionals",
+      "text": "We drive customer projects, connecting them to right professionals along the way"
+    },
+    {
+      "laIcon": "html5",
+      "title": "Backed by professionals",
+      "text": "We know what it takes to build your dream home. And we are there to guide you"
+    },
+    {
+      "laIcon": "heart-o",
+      "title": "Vertically Integrated solution",
+      "text": "Find pros required for your project within the system. Pros can share information with each other within the platform"
+    }
+  ]
+}
