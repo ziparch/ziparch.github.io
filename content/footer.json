@@ -2,8 +2,14 @@
   "copyright": "© 2019. All right reserved Starter",
   "image": "",
   "imageHeight": "30",
-  "social": {
-    "facebook": "#",
-    "twitter": "#"
-  }
+  "social": [
+    {
+      "laLogo": "facebook-f",
+      "href": "#"
+    },
+    {
+      "laLogo": "twitter",
+      "href": "#"
+    }
+  ]
 }
