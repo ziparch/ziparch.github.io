@@ -1,0 +1,35 @@
+{
+  "logo": {
+    "src": "assets/images/logo.png",
+    "width: "120px",
+    "alt": "ZipArch"
+  },
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "#home"
+    },
+    {
+      "label": "Features",
+      "href": "#features"
+    },
+    {
+      "label": "Pricing",
+      "href": "#pricing"
+    },
+    {
+      "label": "About",
+      "href": "#about"
+    }
+  ],
+  "app": [
+    {
+      "label": "Login",
+      "href": "#"
+    },
+    {
+      "label": "Sign Up",
+      "href": "#signup"
+    }
+  ]
+}
