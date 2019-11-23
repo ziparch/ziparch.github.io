@@ -2,14 +2,5 @@
   "copyright": "© 2019 ZipArch. All rights reserved.",
   "image": "",
   "imageHeight": "30",
-  "social": [
-    {
-      "laLogo": "facebook-f",
-      "href": "#"
-    },
-    {
-      "laLogo": "twitter",
-      "href": "#"
-    }
-  ]
+  "social": []
 }
