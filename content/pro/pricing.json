@@ -3,8 +3,8 @@
   "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad at debitis eos impedit laudantium officia optio perspiciatis.",
   "tiers": [
     {
-      "title": "Home Owners",
-      "priceTag": "29",
+      "title": "Designer/Architect",
+      "priceTag": "Free in Beta",
       "features": [
         "5 Users",
         "20 Projects",
@@ -14,8 +14,8 @@
       "actionLink": "#"
     },
     {
-      "title": "Service Professionals",
-      "priceTag": "29",
+      "title": "Engineers and other Pros",
+      "priceTag": "Free in Beta",
       "features": [
         "5 Users",
         "20 Projects",
@@ -26,14 +26,14 @@
     },  
     {
       "title": "General Contractors",
-      "priceTag": "29",
+      "priceTag": "Free in Beta",
       "features": [
         "5 Users",
         "20 Projects",
         "5 GB Storage"
       ],
       "actionButton": "Sign Up",
-      "actionLink": "#"
+      "actionLink": "https://airtable.com/shrAdz8XoRFeTvQCE"
     }
   ]
 }

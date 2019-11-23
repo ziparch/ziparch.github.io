@@ -5,6 +5,7 @@
   "youtube": "https://www.youtube.com/watch?v=HSsqzzuGTPo",
   "signupForm": {
     "title": "Sign up now to get your dream home done",
-    "actionLabel": "Get Stared"
+    "actionLabel": "Get Stared",
+    "actionLink": "https://airtable.com/shrAdz8XoRFeTvQCE"
   }
 }
