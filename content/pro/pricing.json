@@ -1,12 +1,12 @@
 {
   "title": "Pricing",
-  "text": "The platform is free to use during Beta. No credit card required.",
+  "text": "The platform is free to use during Beta. No credit card required for signup.",
   "tiers": [
     {
       "title": "Designer/Architect",
       "priceTag": "Free in Beta",
       "features": [
-        "5 Users",
+        "$29.95 After",
         "20 Projects",
         "5 GB Storage"
       ],
@@ -17,7 +17,7 @@
       "title": "Engineers and other Pros",
       "priceTag": "Free in Beta",
       "features": [
-        "5 Users",
+        "$29.95 After",
         "20 Projects",
         "5 GB Storage"
       ],
@@ -28,7 +28,7 @@
       "title": "General Contractors",
       "priceTag": "Free in Beta",
       "features": [
-        "5 Users",
+        "$29.95 After",
         "20 Projects",
         "5 GB Storage"
       ],
