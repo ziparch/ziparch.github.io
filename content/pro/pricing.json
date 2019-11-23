@@ -4,9 +4,9 @@
   "tiers": [
     {
       "title": "Designer/Architect",
-      "priceTag": "Free in Beta",
+      "priceTag": "0",
       "features": [
-        "$29.95 After",
+        "$29.95 After Beta",
         "20 Projects",
         "5 GB Storage"
       ],
@@ -15,9 +15,9 @@
     },
     {
       "title": "Engineers and other Pros",
-      "priceTag": "Free in Beta",
+      "priceTag": "0",
       "features": [
-        "$29.95 After",
+        "$29.95 After Beta",
         "20 Projects",
         "5 GB Storage"
       ],
@@ -26,9 +26,9 @@
     },  
     {
       "title": "General Contractors",
-      "priceTag": "Free in Beta",
+      "priceTag": "0",
       "features": [
-        "$29.95 After",
+        "$29.95 After Beta",
         "20 Projects",
         "5 GB Storage"
       ],
