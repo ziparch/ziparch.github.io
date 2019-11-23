@@ -1,0 +1,17 @@
+{
+  "hide": true,
+  "list": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, exercitationem expedita iusto nihil velit voluptatem. Lorem ipsum dolor sit amet.",
+      "image": "assets/images/users/1.jpg",
+      "name": "Vincent Butler",
+      "subText": "CEO, Google Inc."
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, exercitationem expedita iusto nihil velit voluptatem. Lorem ipsum dolor sit amet.",
+      "image": "assets/images/users/1.jpg",
+      "name": "Vincent Butler",
+      "subText": "CEO, Google Inc."
+    }
+  ]
+}

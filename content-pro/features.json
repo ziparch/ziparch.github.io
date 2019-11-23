@@ -1,0 +1,36 @@
+{
+  "title": "Home remodeling and construction simplified",
+  "text": "A unified platform to drive you from your vision to done",
+  "features": [
+    {
+      "laIcon": "mobile-phone",
+      "title": "Qualified leads",
+      "text": "Get access to project-ready customers"
+    },
+    {
+      "laIcon": "magic",
+      "title": "Collaboration platform",
+      "text": "State of the art design collaboration and communication platform"
+    },
+    {
+      "laIcon": "cogs",
+      "title": "Transparent money transactions",
+      "text": "We handle all payments in a timely fashion"
+    },
+    {
+      "laIcon": "skyatlas",
+      "title": "Access to 3rd party pros",
+      "text": "Access to other vetted service providers to complete work"
+    },
+    {
+      "laIcon": "html5",
+      "title": "Work from anywhere / Local support",
+      "text": "Collaborate through the platform. Get access to local team members to get in contact with city or submit permits"
+    },
+    {
+      "laIcon": "heart-o",
+      "title": "Quick access to entire project team",
+      "text": "Resolve queries and work with other team members through the platform"
+    }
+  ]
+}
